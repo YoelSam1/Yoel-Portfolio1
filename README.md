@@ -17,5 +17,9 @@ cross-course project
 - G ithub (https://github.com/Noroff-FEU-Assignments/cross-course-project-YoelSam1)
 - Live demo (https://calm-tanuki-e4dc43.netlify.app/)
 
-- List item 2
+Semester Project 1
+
+- G ithub (https://github.com/YoelSam1/yoel-semester-project-1)
+- Live demo (https://zesty-chebakia-194e8e.netlify.app/)
+
 - List item 3
