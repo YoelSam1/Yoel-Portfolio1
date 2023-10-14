@@ -44,6 +44,7 @@ Project Exam 1 about Flying Tips that are blog website - Build Using HTML AND CS
 
 - Github (https://github.com/Noroff-FEU-Assignments/project-exam-1-YoelSam1)
 - Live demo (https://velvety-sprite-01086c.netlify.app/)
+- wordpress (https://www.flyingtips.no/)
 
 # Skills
 
