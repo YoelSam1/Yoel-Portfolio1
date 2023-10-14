@@ -18,7 +18,9 @@ git clone https://github.com/YoelSam1/Yoel-Portfolio1
 
 2. Live demo:
 
+```bash
 - https://splendid-daifuku-a10248.netlify.app/
+```
 
 # My project
 
