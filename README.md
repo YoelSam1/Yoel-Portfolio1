@@ -12,9 +12,8 @@ I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff o
 
 # My project
 
-cross-course project
+Cross-Course Project an e-commerce website - Build Using HTML AND CSS
 
-- Using HTML AND CSS
 - G ithub (https://github.com/Noroff-FEU-Assignments/cross-course-project-YoelSam1)
 - Live demo (https://calm-tanuki-e4dc43.netlify.app/)
 
