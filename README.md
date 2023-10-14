@@ -47,3 +47,9 @@ Other
 # How to reach me
 
 - Email ( Yoelsamson21@gmail.com)
+
+1. Clone the repo:
+
+```bash
+git clone https://github.com/YoelSam1/Yoel-Portfolio1
+```
