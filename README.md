@@ -2,8 +2,6 @@
 
 - Hi 👋, I'm Yoel Samson
 
-- Yoel-Portfolio1
-
 - My own GitHub profile README.md
 
 # Subtitle
