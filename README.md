@@ -2,6 +2,8 @@
 
 - Hi 👋, I'm Yoel Samson
 
+![image](./assets/img/portfolio-img.png)
+
 - My own GitHub profile README.md
 
 # Subtitle
