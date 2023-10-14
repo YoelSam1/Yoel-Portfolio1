@@ -1,5 +1,3 @@
-My own GitHub profile README.md
-
 # Title
 
 - Hi 👋, I'm Yoel Samson
