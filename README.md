@@ -35,7 +35,7 @@ Programming Languages
 - CSS
 - jAVASCRIPT
 
-  Software
+Software
 
 - Figma ( to Create a prototype in all sreen size)
 
