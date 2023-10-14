@@ -40,7 +40,7 @@ Semester Project 1 an Museum website - Build Using HTML AND CSS
 - Github (https://github.com/YoelSam1/yoel-semester-project-1)
 - Live demo (https://zesty-chebakia-194e8e.netlify.app/)
 
-Project Exam 1 about Flying Tips that are blog website - Build Using HTML AND CSS and Javascript, where the content are Fetched as CMS (API) from wordpress.
+Project Exam 1 about Flying Tips that are blog website - Build Using HTML AND CSS and Javascript, where the content of the blog post are Fetched as CMS (API) from wordpress.
 
 - Github (https://github.com/Noroff-FEU-Assignments/project-exam-1-YoelSam1)
 - Live demo (https://velvety-sprite-01086c.netlify.app/)
