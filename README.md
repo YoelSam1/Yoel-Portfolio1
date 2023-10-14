@@ -16,7 +16,7 @@ I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff o
 git clone https://github.com/YoelSam1/Yoel-Portfolio1.git
 ```
 
-2. Live demo:
+2. Live demo Link:
 
 ```bash
 https://splendid-daifuku-a10248.netlify.app/
