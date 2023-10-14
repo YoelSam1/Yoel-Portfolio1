@@ -8,7 +8,7 @@
 
 I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff online school
 
-# Portolio
+# Portfolio
 
 1. Clone the repo:
 
