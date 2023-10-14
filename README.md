@@ -12,7 +12,7 @@ Frontend Developer Student Showcase of my first year work, before beginning my s
 
 # Description
 
-Hi Welcome i am an Frontend Developer Student from Noroff online school. in this Portfolio i am showcaseing my project for the first year i have been working and lerning on. The projects honing my skills and showcasing how far i have come and to testament to the dedication and creativety i have putten though out the year as i explore the fascinating word of web development.
+Hi Welcome i am an Frontend Developer Student from Noroff online school. in this Portfolio i am showcaseing my project for the first year i have been working on and learning. The projects honing my skills and showcasing how far i have come and for testament to the dedication and creativety i have though out the year as i explore the fascinating world of web development.
 
 # Portfolio
 
