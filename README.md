@@ -65,4 +65,4 @@ Other
 
 # Contact
 
-- Email ( Yoelsamson21@gmail.com)
+- Email ( Yoelsamsom21@gmail.com)
