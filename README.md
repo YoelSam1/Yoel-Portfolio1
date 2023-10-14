@@ -6,7 +6,11 @@
 
 # Subtitle
 
-I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff online school
+Frontend Developer Student Showcase of my first year work, before beginning my second year.
+
+# Description
+
+Hi Welcome i am an Frontend Developer Student from Noroff online school. in this Portfolio i am showcaseing my project for the first year i have been working and lerning on. The projects honing my skills and showcasing how far to testament to the dedication and creativety i have putten in though out the year as i explore the fascinating word of web development.
 
 # Portfolio
 
