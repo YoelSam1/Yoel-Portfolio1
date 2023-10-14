@@ -34,6 +34,6 @@ list a the tech stack that i have used
 - HTML
 - CSS
 - jAVASCRIPT
-- Figma
-- Ghithub
-- Netlify
+- Figma ( to Create a prototype in all sreen size)
+- Github
+- Netlify (to deploy the site on live demo)
