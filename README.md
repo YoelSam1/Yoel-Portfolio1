@@ -10,6 +10,12 @@ Hi 👋, I'm Yoel Samson
 
 I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff online school
 
+1. Clone the repo:
+
+```bash
+git clone https://github.com/YoelSam1/Yoel-Portfolio1
+```
+
 # My project
 
 Cross-Course Project an e-commerce website - Build Using HTML AND CSS
@@ -47,9 +53,3 @@ Other
 # Contact
 
 - Email ( Yoelsamson21@gmail.com)
-
-1. Clone the repo:
-
-```bash
-git clone https://github.com/YoelSam1/Yoel-Portfolio1
-```
