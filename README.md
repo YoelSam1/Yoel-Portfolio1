@@ -44,7 +44,7 @@ Other
 - Github
 - Netlify (to deploy the site on live demo)
 
-# How to reach me
+# Contact
 
 - Email ( Yoelsamson21@gmail.com)
 
