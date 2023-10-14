@@ -27,13 +27,23 @@ Project Exam 1 an Flying Tips that are blog website - Build Using HTML AND CSS a
 - Github (https://github.com/Noroff-FEU-Assignments/project-exam-1-YoelSam1)
 - Live demo (https://velvety-sprite-01086c.netlify.app/)
 
-## Built With
+# Skills
 
-list a the tech stack that i have used
+Programming Languages
 
 - HTML
 - CSS
 - jAVASCRIPT
+
+  Software
+
 - Figma ( to Create a prototype in all sreen size)
+
+Other
+
 - Github
 - Netlify (to deploy the site on live demo)
+
+# How to reach me
+
+- Email ( Yoelsamson21@gmail.com)
