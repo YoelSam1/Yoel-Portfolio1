@@ -10,7 +10,7 @@ I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff o
 
 # Portolio
 
-1. Clone the repo:
+1. Github repo:
 
 ```bash
 git clone https://github.com/YoelSam1/Yoel-Portfolio1
