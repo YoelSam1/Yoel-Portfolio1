@@ -14,12 +14,15 @@ I am a Frontend devepoer student now for 1 year going on my 2 year from Noroff o
 
 Cross-Course Project an e-commerce website - Build Using HTML AND CSS
 
-- G ithub (https://github.com/Noroff-FEU-Assignments/cross-course-project-YoelSam1)
+- Github (https://github.com/Noroff-FEU-Assignments/cross-course-project-YoelSam1)
 - Live demo (https://calm-tanuki-e4dc43.netlify.app/)
 
-Semester Project 1
+Semester Project 1 an Museum website - Build Using HTML AND CSS
 
-- G ithub (https://github.com/YoelSam1/yoel-semester-project-1)
+- Github (https://github.com/YoelSam1/yoel-semester-project-1)
 - Live demo (https://zesty-chebakia-194e8e.netlify.app/)
 
-- List item 3
+Project Exam 1 an Flying Tips that are blog website - Build Using HTML AND CSS and Javascript
+
+- Github (https://github.com/Noroff-FEU-Assignments/project-exam-1-YoelSam1)
+- Live demo (https://velvety-sprite-01086c.netlify.app/)
